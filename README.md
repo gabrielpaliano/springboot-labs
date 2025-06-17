@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Spring Boot Labs - Estudo
 
 Breve descrição do projeto e propósito.
 
